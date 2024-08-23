@@ -1,2 +1,2 @@
 # smaple1
-demo git
+demo git.
